@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sadanand_yadav/mlprojectfirst/mlruns/0/4ef425838ceb4d348e17877411936288/artifacts
+end_time: 1732964592926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ef425838ceb4d348e17877411936288
+run_name: indecisive-crow-182
+run_uuid: 4ef425838ceb4d348e17877411936288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732964590105
+status: 3
+tags: []
+user_id: root
